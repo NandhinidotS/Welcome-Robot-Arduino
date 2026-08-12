@@ -44,11 +44,6 @@ A simple Arduino-based Welcome Robot that detects a person using an HC-SR04 Ultr
 
 To demonstrate how sensors, actuators, and audio modules can be integrated with a microcontroller to create a simple interactive Welcome Robot.
 
-## 🤖 Project
-
-**Project Name:** Welcome Robot  
-**Microcontroller:** Arduino UNO  
-**Detection Distance:** 20 cm
 
 ## 🎥 Project Demo
 
