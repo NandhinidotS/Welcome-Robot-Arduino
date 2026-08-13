@@ -47,6 +47,4 @@ To demonstrate how sensors, actuators, and audio modules can be integrated with 
 
 ## 🎥 Project Demo
 
-[Click here to watch the Project Demo]
-
-( https://drive.google.com/file/d/1WpMvU7dqkQfgI64vJcE6LyMCWJaG2aCu/view?usp=drivesdk )
+[▶️ Watch Project Demonstration Video](https://drive.google.com/file/d/1WpMvU7dqkQfgI64vJcE6LyMCWJaG2aCu/view?usp=drivesdk)
